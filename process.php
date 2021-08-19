@@ -35,7 +35,7 @@ https://www.tooplate.com/view/2116-blugoon
       <section class="section contact-me" data-section="section4">
         <div class="container">
           <div class="section-heading">
-            <h2><?php echo "Thanks For Contacting Us"; ?> </h2> 
+            <h2><?php echo $name. "  ". "thanks For Contacting Us"; ?> </h2> 
             <div class="line-dec"></div>
           </div>
           <div class="row">
@@ -46,19 +46,19 @@ https://www.tooplate.com/view/2116-blugoon
                     <div class="col-md-6">
                       <fieldset>
                         <input name="name" type="text" class="form-control"
-                          id="name" placeholder="Your name..." required="" <?php echo $name; ?>/>
+                          id="name" placeholder="Your name..." required="" value="<?php echo $name; ?>"/>
                       </fieldset>
                     </div>
                     <div class="col-md-6">
                       <fieldset>
                         <input name="email" type="text" class="form-control"
-                          id="email" placeholder="Your email..." required=""  <?php echo $mail; ?> />
+                          id="email" placeholder="Your email..." required=""  value="<?php echo $mail; ?>" />
                       </fieldset>
                     </div>
                     <div class="col-md-12">
                       <fieldset>
                         <input name="subject" type="text" class="form-control" 
-                          id="subject" placeholder="Subject..." required="" <?php echo $subject; ?>/>
+                          id="subject" placeholder="Subject..." required="" value="<?php echo $subject; ?>"/>
                       </fieldset>
                     </div>
                     <div class="col-md-12">
