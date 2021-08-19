@@ -24,7 +24,7 @@ https://www.tooplate.com/view/2116-blugoon
       <!-- Sidebar Menu -->  
       <?php
         if(isset($_POST['send'])) {
-/* ----------------------------------------------------------About image variables below */
+/* --------------------------------------------------------About image variables below */
             $name = ($_POST['name']);
             $mail = ($_POST['email']);
             $subject = ($_POST['subject']);            
