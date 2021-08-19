@@ -75,7 +75,7 @@ https://www.tooplate.com/view/2116-blugoon
             <div class="row">
               <div class="col-md-8" style="margin-top: 50px">
                 <div class="left-text">
-                  <h4>EDUCATIONAL TRAINING</h4>
+                  <h4>EDUCATIONAL TRAINING AND CERTIFICATION</h4>
                   <p>
                     Honours Degree in Public Relations and Communications 2000 -2005
                     University of KwaZulu Natal – Public Relations and Communications  
