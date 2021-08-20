@@ -120,7 +120,7 @@ https://www.tooplate.com/view/2116-blugoon
       <section class="section my-services" data-section="section3">
         <div class="container">
           <div class="section-heading">
-            <h2>PROFESSIONAL SKILL</h2>
+            <h2>PROFESSIONAL SKILL AQUIRED</h2>
           </div>
           <div class="row">
             <div class="col-md-6">
